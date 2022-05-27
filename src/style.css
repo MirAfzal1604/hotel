@@ -1,0 +1,59 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(./fonts/Montserrat-Bold.woff);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(./fonts/Montserrat-Regular.woff);
+    font-weight: 400;
+}
+
+body {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 0;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+}
+
+ol,
+ul,
+dl {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
